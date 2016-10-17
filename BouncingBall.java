@@ -25,7 +25,7 @@ public class BouncingBall extends JFrame {
 	private DrawingCanvas canvas;
 	int x = 50, y = 50;
 	int size = 50;
-	int xSpeed = 1, ySpeed = 2;
+	int xSpeed = 2, ySpeed = 2;
 	Color[] ballColorArray = { Color.RED, Color.GREEN, Color.BLUE, Color.YELLOW, Color.GRAY, Color.PINK, Color.BLACK };
 	Color ballColor = Color.BLACK;
 	
